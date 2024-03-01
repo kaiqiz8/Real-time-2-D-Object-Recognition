@@ -1,0 +1,10 @@
+local_build/
+local-build/
+CMakeFiles/
+final submission/
+.vscode/
+proj03Examples/
+cmake*
+CMake*
+*csv
+Makefile*
